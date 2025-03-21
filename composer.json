@@ -1,0 +1,12 @@
+{
+    "name": "takac/jwt-demo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Takac\\JwtDemo\\": "src/"
+        }
+    },
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    }
+}
